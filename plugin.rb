@@ -1,8 +1,8 @@
-# name: discourse-custom-activity-summary-template
-# about: An example plugin to override default Discourse's Activity Summary email template
+# name: HK Custom HTML
+# about: override default HK templates
 # version: 0.1
-# authors: Muhlis Budi Cahyono (muhlisbc@gmail.com)
-# url: https://github.com/muhlisbc/discourse-custom-activity-summary-template
+# authors: Vikas Dangi (muhlisbc@gmail.com)
+# url: https://github.com/hk8817/custom-html
 
 after_initialize {
 
